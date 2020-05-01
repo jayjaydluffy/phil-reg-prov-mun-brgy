@@ -1,6 +1,6 @@
 {
   "name": "@jayjaydluffy/phil-reg-prov-mun-brgy",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Javascript library to get the regions, provinces, cities, municipalities and barangays in the Philippines",
   "main": "index.js",
   "scripts": {
