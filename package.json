@@ -1,6 +1,6 @@
 {
   "name": "phil-reg-prov-mun-brgy",
-  "version": "1.1.0",
+  "version": "1.0.0",
   "description": "A Javascript library to get the regions, provinces, cities, municipalities and barangays in the Philippines",
   "main": "index.js",
   "scripts": {
@@ -27,7 +27,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ejcubillas/philippines-reg-prov-mun-brgy"
+    "url": "https://github.com/jayjaydluffy/philippines-reg-prov-mun-brgy"
   },
   "license": "ISC",
   "dependencies": {},
